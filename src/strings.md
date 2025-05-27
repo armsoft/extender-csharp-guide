@@ -2,20 +2,22 @@
 
 ## Բովանդակություն
 
-- [Տողեր և տողային լիտերալներ](#տողեր-և-տողայի-լիտերալներ)
-- [Տողերի հայտարարում և ինիցիալիզացիա](#տողերի-հայտարարում-և-ինիցիալիզացիա)
-- [Տողերի անփոփոխություն](#տողերի-անփոփոխություն)
-- [Quoted string literals](#quoted-string-literals)
-- [Verbatim string literals](#verbatim-string-literals) 
-- [Raw string literals](#raw-string-literals)
-- [Format strings](#format-strings)
-    - [Տողերի ինտերպոլյացիա](#տողերի-ինտերպոլյացիա)
-        - [Verbatim string interpolation](#verbatim-string-interpolation)
+- [Աշխատանք տողերի հետ](#աշխատանք-տողերի-հետ)
+  - [Բովանդակություն](#բովանդակություն)
+  - [Տողեր և տողային լիտերալներ](#տողեր-և-տողային-լիտերալներ)
+  - [Տողերի հայտարարում և ինիցիալիզացիա](#տողերի-հայտարարում-և-ինիցիալիզացիա)
+  - [Տողերի անփոփոխություն](#տողերի-անփոփոխություն)
+  - [Quoted string literals](#quoted-string-literals)
+  - [Verbatim string literals](#verbatim-string-literals)
+  - [Raw string literals](#raw-string-literals)
+  - [Format strings](#format-strings)
+    - [Տողերի ինտերպոլյացիա (String interpolation)](#տողերի-ինտերպոլյացիա-string-interpolation)
+      - [Verbatim string interpolation](#verbatim-string-interpolation)
     - [Կոմպոզիցիոն ձևաչափում (Composite formatting)](#կոմպոզիցիոն-ձևաչափում-composite-formatting)
-- [Ենթատողեր (Substrings)](#ենթատողեր-substrings)
-- [Հասանելիություն տողի առանձին սիմվոլների](#հասանելիություն-տողի-առանձին-սիմվոլների)
-- [Null արժեքով տողեր և դատարկ տողեր (Null strings and empty strings)](#null-արժեքով-տողեր-և-դատարկ-տողեր-null-strings-and-empty-strings)
-- [StringBuilder-ի օգտագործում տողերի արագ ստեղծման համար](#stringbuilder-ի-օգտագործում-տողերի-արագ-ստեղծման-համար)
+  - [Ենթատողեր (Substrings)](#ենթատողեր-substrings)
+  - [Հասանելիություն տողի առանձին սիմվոլների](#հասանելիություն-տողի-առանձին-սիմվոլների)
+  - [Null արժեքով տողեր և դատարկ տողեր (Null strings and empty strings)](#null-արժեքով-տողեր-և-դատարկ-տողեր-null-strings-and-empty-strings)
+  - [StringBuilder-ի օգտագործում տողերի արագ ստեղծման համար](#stringbuilder-ի-օգտագործում-տողերի-արագ-ստեղծման-համար)
 
 
 
