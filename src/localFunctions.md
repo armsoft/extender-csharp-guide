@@ -46,7 +46,7 @@ private static string GetText(string path, string filename)
 
 [Expression-bodied members](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/expression-bodied-members)
 
-Բերված օրինակներում կիրատռվել է `expression-bodied` սահմանում։ Դուք կարող եք օգտագործել այս տեսակի սահմանումը, երբ  ֆունկցիայի, մեթոդի կամ հատկության տրամաբանությունը բաղկացած է մեկ արտահայտությունից: Հակառակ դեպքում անհրաժեշտ է օգտագործել ձևավոր փակագծեր `{}`։
+Բերված օրինակներում կիրատռվել է `expression-bodied` սահմանում։ Դուք կարող եք օգտագործել այս տեսակի սահմանումը, երբ  ֆունկցիայի, **մեթոդի կամ հատկության տրամաբանությունը բաղկացած է մեկ արտահայտությունից**: Հակառակ դեպքում անհրաժեշտ է օգտագործել ձևավոր փակագծեր `{}`։
 
 ```c#
     int nthFactorial(int number) => number < 2 
